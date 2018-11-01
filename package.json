@@ -1,0 +1,25 @@
+{
+  "name": "6connect-ipv6-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node webpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CircleClick/6connect-ipv6-gui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CircleClick/6connect-ipv6-gui/issues"
+  },
+  "homepage": "https://github.com/CircleClick/6connect-ipv6-gui#readme",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "path": "^0.12.7",
+    "webpack": "^4.20.1"
+  }
+}
