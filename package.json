@@ -20,6 +20,6 @@
   "dependencies": {
     "chart.js": "^2.7.2",
     "path": "^0.12.7",
-    "webpack": "^4.20.1"
+    "webpack": "^5.95.0"
   }
 }
